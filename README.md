@@ -14,9 +14,19 @@ LEET TO GITHUB
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/JotiThakur88/stack/tree/main/0402-remove-k-digits/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/JotiThakur88/stack/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/JotiThakur88/stack/tree/main/0402-remove-k-digits/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/JotiThakur88/stack/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/JotiThakur88/stack/tree/main/0402-remove-k-digits/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/JotiThakur88/stack/tree/main/0402-remove-k-digits/) | Medium |
 <!---LeetCode Topics End-->
