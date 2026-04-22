@@ -17,6 +17,7 @@ LEET TO GITHUB
 | [0071-simplify-path](https://github.com/JotiThakur88/stack/tree/main/0071-simplify-path/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/JotiThakur88/stack/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/JotiThakur88/stack/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/JotiThakur88/stack/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/JotiThakur88/stack/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0402-remove-k-digits](https://github.com/JotiThakur88/stack/tree/main/0402-remove-k-digits/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/JotiThakur88/stack/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -37,6 +38,7 @@ LEET TO GITHUB
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/JotiThakur88/stack/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/JotiThakur88/stack/tree/main/0225-implement-stack-using-queues/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -47,6 +49,7 @@ LEET TO GITHUB
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JotiThakur88/stack/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/JotiThakur88/stack/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/JotiThakur88/stack/tree/main/0173-binary-search-tree-iterator/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +60,13 @@ LEET TO GITHUB
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JotiThakur88/stack/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/JotiThakur88/stack/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/JotiThakur88/stack/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/JotiThakur88/stack/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/JotiThakur88/stack/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
