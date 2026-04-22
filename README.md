@@ -17,6 +17,7 @@ LEET TO GITHUB
 | [0071-simplify-path](https://github.com/JotiThakur88/stack/tree/main/0071-simplify-path/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/JotiThakur88/stack/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/JotiThakur88/stack/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0155-min-stack](https://github.com/JotiThakur88/stack/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/JotiThakur88/stack/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/JotiThakur88/stack/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0402-remove-k-digits](https://github.com/JotiThakur88/stack/tree/main/0402-remove-k-digits/) | Medium |
@@ -38,6 +39,7 @@ LEET TO GITHUB
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/JotiThakur88/stack/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/JotiThakur88/stack/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/JotiThakur88/stack/tree/main/0225-implement-stack-using-queues/) | Easy |
 ## Queue
