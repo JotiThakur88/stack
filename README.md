@@ -14,6 +14,7 @@ LEET TO GITHUB
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/JotiThakur88/stack/tree/main/0071-simplify-path/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/JotiThakur88/stack/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0402-remove-k-digits](https://github.com/JotiThakur88/stack/tree/main/0402-remove-k-digits/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/JotiThakur88/stack/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -25,6 +26,7 @@ LEET TO GITHUB
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/JotiThakur88/stack/tree/main/0071-simplify-path/) | Medium |
 | [0402-remove-k-digits](https://github.com/JotiThakur88/stack/tree/main/0402-remove-k-digits/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
